@@ -1,2 +1,2 @@
 # DSP
-Codes from DSP lecture homeworks
+Codes from DSP lecture exercises
